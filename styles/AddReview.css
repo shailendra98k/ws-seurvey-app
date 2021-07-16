@@ -1,0 +1,51 @@
+
+
+#review-div{
+    
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    background-color:#f8f4e1;
+    padding: 40px;
+    padding-bottom: 10px;
+    opacity: 0.8;
+}
+form>div>input{
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width:1px ;
+    background-color:#ffffff;
+    width: 50%;
+    
+}
+input:focus{
+    outline:none;
+}
+.review-child-div{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(67, 68, 70);
+    border: 1px solid #edece7;
+    margin-top:10px;
+    padding: 25px;
+    
+    background-color:#ffffff;
+    border-radius: 5px;
+;
+}
+
+#review-div-child-1{
+    border-top-color: #dcd38df1;
+    border-top-width: 7px;
+}
+
+#submit-btn{
+    color:white;
+    border: 0px;
+    border-radius: 3px;
+    background-color: #ac964b;
+    margin-top: 8px;
+}
+p{
+    text-align: justify;
+}
